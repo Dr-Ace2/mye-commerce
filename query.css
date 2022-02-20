@@ -1,0 +1,922 @@
+@media (max-width:1680px) {
+  
+
+  #countkart{
+    left: 1150px;
+    bottom: 400px;
+  }
+
+  #emsimg{
+    left: 150px;
+    bottom: 350px;
+  }
+  #shop{
+    left: 2px;
+
+    
+
+  }  
+  
+  .add-btn{
+    left:130px;
+    width: 50%;
+  }
+
+  .product-name{
+    left: 200px;
+  }
+
+  #gag{  
+    margin-left: 670px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+#contCheck{
+  left: 250px;
+}
+
+ 
+
+  
+}
+
+@media (max-width:1500px) {
+  
+  .add-btn{
+    left:120px;
+    width: 50%;
+  }
+  #gag{  
+    margin-left: 630px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#contCheck{
+  left: 190px;
+}
+
+
+
+
+
+}
+
+
+
+
+@media (max-width:1463px) {
+  
+  #emsimg{
+    left: 150px;
+    bottom: 290px;
+  }
+
+  #gag{  
+    margin-left: 570px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#countkart{
+  left: 1150px;
+  bottom: 350px;
+}
+
+#contCheck{
+  left: 170px;
+}
+
+}
+
+
+
+
+
+@media (max-width:1335px) {
+
+  #contCheck{
+    left: 90px;
+  }
+
+  #shop{
+    left: -50px;
+
+  }
+
+   #butt{
+    font-size: 20px;
+    
+    width: 20%;
+  }
+
+  
+  #text{
+    left: 370px;
+
+  }
+  #hero{
+    left:600px;
+    bottom: 0px;
+  }
+
+  #countkart{
+    left: 950px;
+    bottom: 280px;
+  }
+
+  #gag{  
+    margin-left: 520px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.add-btn{
+  left:100px;
+  width: 50%;
+}
+
+.product-name{
+  left: 150px;
+}
+
+
+#emsimg{
+  left: 50px;
+  bottom: 210px;
+}
+  
+
+
+
+
+
+
+}
+
+ @media (max-width:1000px) {
+
+
+  #contCheck{
+    left: 400px;
+  }
+  #cont{
+    font-size: 18px;
+    border-radius: 30px;
+  }
+
+  #shop{
+    left: -200px;
+
+    width: 20px;
+
+  }
+
+  #butt{
+    font-size: 20px;
+    
+    width: 20%;
+  }
+
+  
+  #text{
+    left: 220px;
+
+  }
+  #hero{
+    left:480px;
+    bottom: -30px;
+  }
+
+  #countkart{
+    left: 700px;
+    bottom: 280px;
+  }
+
+  #gag{  
+    margin-left: 350px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.add-btn{
+  left:80px;
+  width: 50%;
+}
+
+.product-name{
+  left: 110px;
+}
+
+
+
+
+#emsimg{
+  left: 50px;
+  bottom: 210px;
+}
+#tableSet{
+  width: 100%;
+  left: 50px;
+}
+
+
+} 
+  
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:720px) {
+  
+  #shop{
+    left: -370px;
+
+    width: 20px;
+
+  }
+
+  #butt{
+    font-size: 20px;
+    border-radius: 100px;
+    width: 30%;
+  }
+  #text{
+    left: 170px;
+
+  }
+
+  #emsimg{
+    left: 50px;
+    bottom: 200px;
+  }
+  #hero{
+    left:400px;
+    bottom: -60px;
+  }
+   
+  #countkart{
+    left: 510px;
+    bottom: 250px;
+  }
+ 
+  .product-img{
+    width: 73%;
+  }
+  .add-btn{
+    left:20px;
+  }
+
+  .product-name{
+    left: 40px;
+  }
+  .img__overlay{
+    width: 72%;
+    
+  }
+  .img__overlay h2{
+
+    left: 50px; 
+
+  }
+  .img__overlay h1{
+
+    left: 20px; 
+
+  }
+
+  #tableSet{
+    width: 100%;
+    left: 3px;
+  }
+  #contCheck{
+    left: 190px;
+  }
+  #cont{
+    font-size: 18px;
+    border-radius: 30px;
+  }
+  #amount{
+    left: 120px;
+  }
+
+  #gag{  
+    margin-left: 200px;
+}
+  
+#tab{
+  position: relative;
+  left: 63px;
+}
+
+#tab th{
+  position: relative;
+  left: 30px;
+}
+#tab tr, td{
+  /* padding-bottom: 3px; */
+  position: relative;
+  text-align: center;
+  left: -110px;
+  
+}
+#summary{
+  left: 100px;
+  width: 80%; 
+  text-align: center;
+}
+#summary-table tr, td{
+  
+  left: -8px;
+}
+
+  
+}
+
+
+
+
+@media (max-width:550px) {
+  
+  #shop{
+    left: -390px;
+
+    
+
+  }
+
+  #butt{
+    font-size: 20px;
+    border-radius: 100px;
+    width: 30%;
+  }
+  #text{
+    left: 170px;
+   font-size: 10px;
+  }
+
+  #emsimg{
+    left: 50px;
+    bottom: 200px;
+    margin-top: 70px;
+  }
+  #hero{
+    left:320px;
+    bottom: -90px;
+  }
+   
+  #countkart{
+    left: 350px;
+    bottom: 250px;
+    width: 22%;
+  }
+ 
+  #third{
+    display: flex;
+    flex-direction: column;
+  }
+  .product-img{
+    width: 110%;
+    
+
+  }
+  .add-btn{
+    left:150px;
+  }
+
+  .product-name{
+    left: 220px;
+  }
+  .img__overlay{
+    width: 72%;
+    
+  }
+  .img__overlay h2{
+
+    left: 50px; 
+
+  }
+  .img__overlay h1{
+
+    left: 20px; 
+
+  }
+
+  #tableSet{
+    width: 100%;
+    left: 3px;
+  }
+  #contCheck{
+    left: 80px;
+  }
+  #cont{
+    font-size: 18px;
+    border-radius: 30px;
+  }
+  #amount{
+    left: 120px;
+  }
+
+  #gag{  
+    margin-left: 200px;
+}
+  
+#tab{
+  position: relative;
+  left: 63px;
+}
+
+#tab th{
+  position: relative;
+  left: 30px;
+}
+#tab tr, td{
+  /* padding-bottom: 3px; */
+  position: relative;
+  text-align: center;
+  left: -110px;
+  
+}
+#summary{
+  left: 100px;
+  width: 80%; 
+  text-align: center;
+}
+#summary-table tr, td{
+  
+  left: -8px;
+}
+
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media (max-width:1260px){
+
+
+  #emsimg img{
+    margin-bottom: 350px;
+  }
+  .product-name{
+    display: none;
+    left:20px;
+
+  } 
+  .add-btn{
+    left: 30px;
+  }
+
+
+}
+
+
+
+
+@media screen and (max-width: 800px){ */ 
+
+  /* #first{
+    display: none;
+  } */
+   /* #hero img {
+       width: 200px;
+       margin-top: 30px;
+       margin-left: -200px;
+   }
+
+   #hero{
+     top: 70px;
+   }
+
+   #text h1 {
+     font-size: 30px;
+   }
+
+   #text{
+     left: 220px;
+     top: 250px;
+   }
+
+   #emsimg img{
+     margin-top: 40px;
+   }
+
+   #butt{
+      margin-left: -230px;
+      margin-bottom: 20px;
+   }
+
+   #countkart{
+      bottom: 470px;
+      left: 830px;
+   } 
+   .product-name{
+     left: 80px;
+
+   } 
+   .add-btn{
+     left: 30px;
+   }
+
+   .product-img{
+    width: 70%;
+
+    display: block;
+    
+  }
+
+  #footer{
+    padding: 1px;
+  }
+
+}
+
+
+@media (max-width:1800px){
+
+  #countkart{  
+    margin-left: -400px;
+    margin-top: 20px;
+    
+
+  }
+
+  /* #gag{
+    margin-left: -300px;
+  } */
+
+  /* #emsimg{
+    margin-top: 20px;
+  }
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media  (max-width: 850px){
+  #shop{
+    margin-left: -500px;
+  } */
+
+  /* #gag{
+    margin-left: -100px;
+  } */
+
+/* }
+
+@media (max-width: 750px){ */
+  /* html, body{
+    width: 100%;
+  } */
+   
+  /* #emsimg{
+    margin-top: 250px;
+  }
+  #countkart{
+    margin-left: -1000px;
+    width: 150px;
+  }
+
+  #shop{
+    margin-left: -400px;
+  }
+  #ankor{
+    display: block;
+    margin-left: -500px;
+  }
+  
+ #first{
+   width: 200%;
+ }
+    #summary{
+      left: 10px;
+      width: 90%;
+    }
+  
+    #headline{
+        margin-bottom: 65px;
+    }  
+  
+    #text{
+      font-size: 2.5em;
+      line-height: 1.5em;
+      margin-left: 40px;
+      margin-top: 40px;
+    }
+  
+    #hero{
+        width: 200px;
+    }
+  
+    #third{
+      grid-template-columns: 1fr 1fr;
+    }
+  
+    .item_overlay{
+      width: 220px;
+    }
+  
+    #formpop{
+      width: 80%;
+    }
+  
+    .add-btn{
+      width: 20%;
+    }
+  }
+  
+
+  
+
+  
+  @media  (max-width: 650px){
+
+  .menu-items{
+      margin-left: 30px;
+      font-size: 20px;
+   } */ 
+  /* yuuuyyuiu */
+   /* #emsimg{
+     width: 20%;
+   } */
+
+  /* #kart{
+    width: 20%; 
+  }
+ /* vcgdt */
+
+   /* #countkart{
+    width: 80px;
+    border-radius: 5px;
+  }
+  
+  #count{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: -15px;
+  }
+  
+   #kart{
+     width: 30%;
+   }
+  
+    #headline{
+        margin-top: 20px;
+        margin-bottom: 85px;
+        width: 80%;
+        justify-content: space-evenly;
+    }  
+  
+    #text{
+      font-size: 2em;
+      line-height: 1.4em;
+      margin-top: 60px;
+      margin-right: 60px;
+      font-weight: normal;
+    }
+  
+    #hero{
+        width: 250px;
+    }
+  
+    #third{
+      column-gap: 50px;
+    }
+  
+    .item_overlay{
+      width: 200px;
+    }
+  
+    #footer img{
+      width: 20%;
+    }
+  
+    #footer p{
+       margin-right: 10px;
+    }
+  }
+  
+  @media (max-width: 550px){
+    #summary{
+      left: 0;
+      width: 100%;
+      text-align: center;
+    }
+  
+    #table-body tr td{
+      text-align: center;
+    }
+
+    #countkart{
+      margin-left: -1000px;
+      margin-top: 400px;
+    }
+  
+    .ok-btn{
+      margin-right: -100px;
+    }
+  
+    .menu-items{
+      margin-left: 10px;
+      font-size: 18px;
+     }
+  
+     #headline{
+       display: flex;
+       flex-direction: column;
+       text-align: center;
+       align-items: center;
+       margin-top: 5px;
+       margin-bottom: 100px;
+     } 
+  
+     #text{
+      margin-bottom: 20px;
+    }
+  
+    #shop{
+      width: 50%;
+      margin-left: -300px;
+      border-radius:50px ;
+      display: none;
+    }
+  
+    #third{
+      grid-template-columns: 1fr;
+    }
+  
+    .add-btn{
+      width: 60%;
+    }
+  
+    #second{
+      padding: 20px;
+  }
+  
+  #second p {
+      font-size: 1em;
+      line-height: 1.6em;
+    }
+  
+    #footer p{
+      font-size: 14px;
+    }
+  
+    #tableSet{
+      width: 100%;
+    }
+  
+    #tab{
+      font-size: 13px;
+      margin-bottom: 25px;
+    }
+  
+    #tab th, td{
+        padding-bottom: 3px;
+        text-align: left;
+    }
+  
+    .remove{
+      font-size: 10px;
+      padding: 3px;
+      width: 50px;
+      margin-left: -30px;
+    }
+  
+    .inc{
+      font-size: 16px;
+      padding: 2px;
+    }
+  
+    .amount{
+      padding: 10px;
+      font-size: 11px;
+    }
+  
+    #contCheck{
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    #cont{
+       width: 80%;
+       margin-bottom: 40px;
+    }
+  
+    #check{
+       width: 80%;
+       margin: 0 auto;
+    }
+  
+  }
+   
+  @media (max-width: 800px){
+    #hero{
+      width: 10%;
+    }
+  }
+
+  @media (max-width:1000px){
+    /* #gag{
+      margin: 0 auto;
+    } */
+  /* }
+  
+  @media  (max-width: 1100px){
+    #headline{
+      margin-bottom: 55px;
+      margin-left: -200px;
+    } */ 
+    /* #gag{
+      margin: 0 auto;
+      
+    }
+   */
+    /* #text{
+        font-size: 10px;
+        margin-left: 75px;
+    } */
+  
+    /* #hero{
+      width: 400px;
+      margin-top: 20px;
+    }
+   */
+    /* #tableSet{
+      width: 90%;
+    }
+  
+    #summary{
+      left: 40px;
+      width: 80%;
+    }
+    
+    #third{
+      column-gap: 30px;
+    }
+  
+    .item_overlay{
+      width: 200px;
+    }
+    
+    .add-btn{
+      width: 70%;
+    }
+  }
+
+  @media  ( max-width:1200px ){
+    #shop{
+      margin-left: -300px;}
+
+@media  ( max-width:1400px ){
+  #countkart{  
+    margin-left: -400px;
+    margin-top: 20px;
+
+  }
+  #emsimg{
+    margin-top: 3px;
+    
+  }
+  #contCheck{
+    margin-left: -500px;
+  }
+
+
+}
+  
+
+
+
+  

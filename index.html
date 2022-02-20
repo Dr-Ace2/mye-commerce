@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="query.css">
+</head>
+<body >
+    <div id="first"  >
+            <div id="ankor" class="menu-list">
+
+                  </li><a href="#first">Intro</a>
+
+                  </li><a href="#second">About</a>
+
+                  </li><a href="#third">Shop</a>
+                
+                </div>
+
+            
+
+            <div id="formpop" >
+
+              <div id="tableSet">
+                  <table id='tab'>
+                    <tr>
+
+                      <th class="tablehead"> <span class="thead" >S/N</span> </th> 
+                      <th class="tablehead"> <span class="thead" >Item</span> </th>
+                      <th class="tablehead"> <span class="thead" >Price</span> </th>
+                      <th class="tablehead"> <span class="thead" >Quantity</span> </th>
+
+                    </tr>
+
+                  </table>
+                
+                  <br><br>
+                  
+                  <br><br>
+                  
+
+                    <form action="" id="dform">
+
+
+                      <label for="name"> 
+                            <input type="text" id="name" placeholder="YOUR NAME" >
+                            <p class="error" id="para1"></p>                    
+                      </label> <br> <br> <br>
+
+                      <label for="email">
+                           <input type="email" id="email" placeholder ="YOUR EMAIL" >
+                           <p class="error" id="para2"></p>
+                      </label> <br><br> <br>
+
+                      <label for="number"> 
+                           <input type="number" id="number" placeholder="YOUR PHONE NUMBER" >
+                           <p class="error" id="para3"></p> 
+                      </label>
+                      
+
+                    </form>
+                    
+                    
+                    <div id="amount">
+                             <b>Total Amount to be Paid</b>
+                            <h1 id="amountTotal">0</h1>
+                    
+                    </div>
+                    <br><br>
+                    <div id="contCheck">
+                        <button id="cont">Continue shopping</button>
+                        <button id="check" >Checkout</button>
+                    </div>  
+              </div> 
+              <div id="summary">
+                <h3>Thank you, <span id="b-name"></span>, Your Order has been received</h3>
+                <img id="summary-img" src="./project_files/images/check.svg" alt="success">
+                <h2>Summary</h2>
+                <table id="summary-table">
+                  <thead>
+                      <tr>
+                          <th>S/N</th>
+                          <th>Item</th>
+                          <th>Quantity</th>
+                        </tr>
+                  </thead>  
+                  <tbody id="table-body"></tbody>
+                </table>
+                <button class="ok-btn" onclick="closeSummary()">OK</button>
+            </div>
+
+            </div>
+             <div id="headline">
+                  <div id="text">
+
+                      <h1>THE <br> E- MILLENIAL <br> STORE</h1>
+            
+                   </div>
+
+                <div id="hero">
+
+                
+                      <img src="./project_files/images/heroImage.png" alt="" width="20%" height="20%">
+                </div>
+          </div>
+
+            <div id="emsimg">
+
+                <img src="./project_files/images/EMS.svg" alt="ems" >
+            </div>
+        
+
+
+            <div id="countkart">
+            
+                <div id="carrt">
+                  <span id="count"></span>
+                </div>
+
+                <div id="kart">
+                    <img src="./project_files/images/cart.svg" alt="" >
+                  </div>
+            </div>
+
+
+
+            <a href="#third" id="shop">
+              <button id="butt">Shop Now</button>
+            </a>
+            
+            
+    </div>
+
+          <div id="second">
+              <h2> E- millenial Store is an hypothetical online store for gadgets  we believe every 'millenialor 'Gen-Z should have today
+                we have mobile phones, laptops, smartwatches and other gadgets.
+                Explore all our gadgets and choose the one that suits you</h2>
+          </div>
+               
+           <div id="gag">  
+                <h1> OUR GADGETS</h1>
+            </div>
+         
+            <div class="items" id="third">
+              
+          
+            </div>
+
+            <div id="footer">
+          
+              <img src="./project_files/images/EMS.svg" alt="logo">
+              <p>crafted by a Frontend Doctor</p>
+
+            </div>
+            <!-- <div >
+              <div id="one" class="reduce">
+                  <img src="./Project Files/images/product1.png" alt="" width="100%" height="80%" class="image"> <br>
+                  <h1 id="test" class="fontred">SAMSUNG TV</h1>
+                  <button class="buttn" onclick="increment()">Add to cart</button><br><br><br>
+                  <h2 class="text1"><a href="" id="opaq">Price</a> #500,000</h2>
+              </div>    
+    
+              <div id="two" class="reduce">    
+                <img src="./Project Files/images/product2.png" alt="" width="100%" height="80%" class="image2">
+                <h1 class="fontred">PIXELS 4a</h1>
+                <button class="buttn" onclick="decrement()">Add to cart</button><br><br><br>
+                <h2 class="text2"> <a href="" id="opaq2">Price</a> #250,000</h2>
+             </div>
+              
+              <div id="three" class="reduce">
+                  
+                <img src="./Project Files/images/product3.png" alt="" width="100%" height="80%" class="image3">
+                <h1 class="fontred">PS 5</h1>
+                  <button class="buttn">Add to cart</button><br><br><br>
+                  <h2 class="text3"> <a href="" id="opaq3">Price</a> #300,000</h2>
+            </div>
+              
+              <div id="four" class="reduce">
+                  
+                <img src="./Project Files/images/product4.png" alt="" width="100%" height="80%" class="image4">
+                <h1 class="fontred">MACBOOK AIR</h1>
+                  <button class="buttn">Add to cart</button><br><br><br>
+                  <h2 class="text4"> <a href="" id="opaq4">Price</a> #800,000</h2>
+            </div>
+              
+              <div id="five" class="reduce">
+                  
+                <img src="./Project Files/images/product5.png" alt="" width="100%" height="80%" class="image5">
+                <h1 class="fontred">APPLE WATCH</h1>
+                <button class="buttn">Add to cart</button><br><br><br>
+                <h2 class="text5"> <a href="" id="opaq5">Price</a> #95,000</h2>
+              </div>
+    
+              <div id="six" class="reduce">
+                  
+                <img src="./Project Files/images/product6.png" alt="" width="100%" height="80%" class="image6">
+            
+                <h1 class="fontred">AIR PODS</h1>
+                <button class="buttn">Add to cart</button><br>
+                <h2 class="text6"> <a href="" id="opaq6">Price</a> #75,000</h2>
+    
+            </div>
+          </div> -->
+            
+          <script src="https://js.paystack.co/v1/inline.js"></script>
+          <script src="./script.js"></script>
+</body>
+</html>
